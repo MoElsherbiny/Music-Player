@@ -2,6 +2,9 @@
 
 This is a simple music player created using HTML, CSS, and JavaScript. The player allows you to add music and create a playlist. 
 
+## here is a demo of the project
+`https://moelsherbiny.github.io/Music-Player/`
+
 ## Features
 - Add music to the player
 - Create a playlist
